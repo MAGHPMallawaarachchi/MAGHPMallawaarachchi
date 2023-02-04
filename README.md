@@ -7,6 +7,16 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maghpmallawaarachchi" alt="maghpmallawaarachchi" /></a> </p>
 
+- 🔭 I’m currently working on **React.js, Tailwind CSS**
+
+- 👨‍💻 All of my projects are available at [https://github.com/MAGHPMallawaarachchi](https://github.com/MAGHPMallawaarachchi)
+
+- 💬 Ask me about **React.js, HTML, CSS, Tailwind CSS, JS**
+
+- 📫 How to reach me **hasinipunsala@gmail.com**
+
+- ⚡ Fun fact **I love to code!**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/@just.salaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@just.salaa" height="30" width="40" /></a>
