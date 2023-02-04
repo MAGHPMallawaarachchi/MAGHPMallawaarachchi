@@ -1,4 +1,4 @@
-<img align="center" alt="coding" width="100%" src="https://64.media.tumblr.com/d08fc860c0cbf765eb777e70968821aa/e45188773e770165-6a/s540x810/fa5103839330e6827bdd20ea85e7e4f7f8b90d0f.gif"/>
+<img align="center" alt="coding" width="100%" height="300" src="https://im.ezgif.com/tmp/ezgif-1-173236be9d.gif"/>
 
 <h1 align="center">Hi 👋, I'm Hasini Punsala</h1>
 <h3 align="center">I'm a software engineering undergraduate with a passion for solving problems through code.</h3>
