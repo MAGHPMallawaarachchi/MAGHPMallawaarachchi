@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Hasini Punsala</h1>
 <h3 align="center">I'm a software engineering undergraduate with a passion for solving problems through code.</h3>
 
-<img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/3671336/screenshots/6646593/jelisa_1to1px_animation3.gif"/>
+<img align="right" alt="coding" width="300" src="https://media.tenor.com/ZwiXDI5sKe0AAAAM/lain-serial-experiments-lain.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maghpmallawaarachchi&label=Profile%20views&color=0e75b6&style=flat" alt="maghpmallawaarachchi" /> </p>
 
