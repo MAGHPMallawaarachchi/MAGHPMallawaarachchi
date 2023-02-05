@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **hasinipunsala@gmail.com**
 
-- ⚡ Fun fact **I love to code!**
+- ⚡ Fun fact **I'm an artist!**
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maghpmallawaarachchi" alt="maghpmallawaarachchi" /></a> </p>
 
