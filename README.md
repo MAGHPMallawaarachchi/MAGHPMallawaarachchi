@@ -1,4 +1,4 @@
-<img align="center" alt="coding" width="100%" src="https://github.com/MAGHPMallawaarachchi/MAGHPMallawaarachchi/blob/main/15748_13.gif"/>
+<img align="center" alt="coding" width="100%" src="https://github.com/MAGHPMallawaarachchi/MAGHPMallawaarachchi/blob/main/ezgif-5-d384fb9b2a.gif"/>
 
 <h1 align="center">Hi 👋, I'm Hasini Punsala</h1>
 <h3 align="center">I'm a software engineering undergraduate with a passion for solving problems through code.</h3>
