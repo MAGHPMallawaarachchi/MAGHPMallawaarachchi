@@ -7,11 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maghpmallawaarachchi&label=Profile%20views&color=fe6d95&style=flat" alt="maghpmallawaarachchi" /> </p>
 
-- 🔭 I’m currently working on **React.js, Tailwind CSS**
+- 🔭 I’m currently working on **MERN**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MAGHPMallawaarachchi](https://github.com/MAGHPMallawaarachchi)
 
-- 💬 Ask me about **React.js, HTML, CSS, Tailwind CSS, JS**
+- 💬 Ask me about **React.js, Tailwind CSS**
 
 - 📫 How to reach me **hasinipunsala@gmail.com**
 
