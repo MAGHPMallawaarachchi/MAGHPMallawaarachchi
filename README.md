@@ -39,7 +39,7 @@
   
 <!--   <img align="center" src="https://github-readme-stats.vercel.app/api?username=maghpmallawaarachchi&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="maghpmallawaarachchi" /> -->
   
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maghpmallawaarachchi&theme=dracula&hide_border=true&show_icons=true&locale=en&layout=compact" alt="maghpmallawaarachchi" height="150px" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maghpmallawaarachchi&theme=dracula&hide_border=true&show_icons=true&locale=en&layout=compact" alt="maghpmallawaarachchi" height="150px"/>
   
 </div>
 
