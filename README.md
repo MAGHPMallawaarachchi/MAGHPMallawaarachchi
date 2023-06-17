@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maghpmallawaarachchi&label=Profile%20views&color=fe6d95&style=flat" alt="maghpmallawaarachchi" /> </p>
 
-- 🔭 I’m currently working on **C# & .NET**
+- 🔭 I’m currently working on **Flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MAGHPMallawaarachchi](https://github.com/MAGHPMallawaarachchi)
 
