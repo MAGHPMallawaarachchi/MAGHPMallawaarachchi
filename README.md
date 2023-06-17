@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **React.js, Tailwind CSS**
 
-- 📫 How to reach me **hasinipunsala@gmail.com**
+- 📫 Reach me via **hasinipunsala@gmail.com**
 
 - ⚡ Fun fact **I'm an artist!**
 
