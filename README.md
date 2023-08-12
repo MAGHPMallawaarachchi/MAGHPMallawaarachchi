@@ -1,7 +1,7 @@
 <img align="center" alt="coding" width="100%" src="https://github.com/MAGHPMallawaarachchi/MAGHPMallawaarachchi/blob/main/ezgif-5-d384fb9b2a.gif"/>
 
 <h1 align="center">Hi 👋, I'm Hasini Punsala</h1>
-<h3 align="center">I'm a software engineering undergraduate with a passion for solving problems through code.</h3>
+<h3 align="center">I'm a full-stack developer, translating ideas into code reality.</h3>
 
 <!-- <img align="right" alt="coding" width="200" src="https://media.tenor.com/ZwiXDI5sKe0AAAAM/lain-serial-experiments-lain.gif"/> -->
 
