@@ -1,4 +1,4 @@
-<img align="center" alt="coding" width="100%" src="https://github.com/MAGHPMallawaarachchi/MAGHPMallawaarachchi/blob/main/ezgif-5-d384fb9b2a.gif"/>
+<img align="center" alt="coding" width="100%" src="https://github.com/MAGHPMallawaarachchi/MAGHPMallawaarachchi/blob/main/punsalaGif.gif"/>
 
 <h1 align="center">Hi 👋, I'm Hasini Punsala</h1>
 <h3 align="center">I'm a UI/UX designer and a full-stack developer, translating ideas into code reality.</h3>
